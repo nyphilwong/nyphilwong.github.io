@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Phillip Wong"
-  avatar           : "images/rsz_image_0960.jpg"
+  avatar           : "/images/rsz_image_0960.jpg"
   bio              : "Hi I'm testing this!"
   location         : "New York, NY"
   email            :
